@@ -1,4 +1,4 @@
-package com.github.zhijianfree.windyplugin
+package com.zj.gyl.windy
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
