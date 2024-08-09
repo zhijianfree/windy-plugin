@@ -9,7 +9,8 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.zj.gyl.windy.toolWindow.WindyToolWindowFactory" id="windy"/>
+        <toolWindow factoryClass="com.zj.gyl.windy.toolWindow.WindyToolWindowFactory" id="Windy"/>
+        <notificationGroup id="Windy Notification Group" displayType="BALLOON" isLogByDefault="false"/>
     </extensions>
 
     <applicationListeners>
